@@ -1,0 +1,11 @@
+{
+  "name": "amazon.in",
+  "version": "1.0.0",
+  "description": "Creating a frontend Web-Page of Amazon.in",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhanendra Kumar",
+  "license": "ISC"
+}
